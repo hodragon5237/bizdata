@@ -1,0 +1,17 @@
+[
+  { "name": "손오공", "powerLevel": 9001, "affiliation": "Z-Fighters" },
+  { "name": "베지터", "powerLevel": 8500, "affiliation": "Z-Fighters" },
+  { "name": "손오반", "powerLevel": 7500, "affiliation": "Z-Fighters" },
+  { "name": "피콜로", "powerLevel": 7000, "affiliation": "Z-Fighters" },
+  { "name": "크리링", "powerLevel": 6000, "affiliation": "Z-Fighters" },
+  { "name": "트랭크스", "powerLevel": 7200, "affiliation": "Z-Fighters" },
+  { "name": "프리저", "powerLevel": 8000, "affiliation": "Villains" },
+  { "name": "셀", "powerLevel": 9500, "affiliation": "Villains" },
+  { "name": "마인 부우", "powerLevel": 8800, "affiliation": "Villains" },
+  { "name": "브로리", "powerLevel": 10000, "affiliation": "Villains" },
+  { "name": "천진반", "powerLevel": 6500, "affiliation": "Z-Fighters" },
+  { "name": "야무치", "powerLevel": 5500, "affiliation": "Z-Fighters" },
+  { "name": "비루스", "powerLevel": 12000, "affiliation": "Gods" },
+  { "name": "우이스", "powerLevel": 13000, "affiliation": "Gods" },
+  { "name": "비델", "powerLevel": 5000, "affiliation": "Z-Fighters" }
+]
