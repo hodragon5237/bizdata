@@ -1,0 +1,17 @@
+[
+  { "company": "한빛물류", "dealSize": 3200, "industry": "물류", "status": "초기 접촉" },
+  { "company": "동우테크", "dealSize": 5400, "industry": "제조", "status": "제안서 제출" },
+  { "company": "에이스디지털", "dealSize": 4100, "industry": "IT 서비스", "status": "검토중" },
+  { "company": "그린에너지솔루션", "dealSize": 6200, "industry": "에너지", "status": "협상중" },
+  { "company": "세림화학", "dealSize": 2800, "industry": "화학", "status": "초기 접촉" },
+  { "company": "유니온푸드", "dealSize": 3500, "industry": "식품", "status": "검토중" },
+  { "company": "넥스트플랜", "dealSize": 4700, "industry": "컨설팅", "status": "제안서 제출" },
+  { "company": "코어시스템즈", "dealSize": 6800, "industry": "소프트웨어", "status": "협상중" },
+  { "company": "미래정공", "dealSize": 3900, "industry": "기계", "status": "검토중" },
+  { "company": "다온커머스", "dealSize": 5100, "industry": "이커머스", "status": "경쟁입찰" },
+  { "company": "에코빌드", "dealSize": 7300, "industry": "건설", "status": "협상중" },
+  { "company": "한성유통", "dealSize": 2600, "industry": "유통", "status": "초기 접촉" },
+  { "company": "비전헬스케어", "dealSize": 5800, "industry": "헬스케어", "status": "제안서 제출" },
+  { "company": "제이케이모터스", "dealSize": 4400, "industry": "자동차 부품", "status": "검토중" },
+  { "company": "오션바이오", "dealSize": 3000, "industry": "바이오", "status": "초기 접촉" }
+]
